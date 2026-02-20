@@ -1,0 +1,13 @@
+{
+  "name": "dosaaf-exam-bot",
+  "version": "1.0.0",
+  "description": "Минимальный Telegram-бот для регистрации на экзамен (JS, минимальные зависимости)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^1.0.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
